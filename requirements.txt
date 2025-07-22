@@ -1,0 +1,15 @@
+beautifulsoup4
+requests
+sentence-transformers
+faiss-cpu
+numpy
+tqdm
+streamlit
+langchain>=0.2.5
+openai>=1.12.0
+pandas
+selenium
+webdriver-manager
+chromadb>=0.4.24
+ollama
+humanfriendly
