@@ -46,6 +46,7 @@ The app will open in your browser at http://localhost:8501.
 ## Note
 
 - Ensure Python 3.11 or newer is on your PATH.
+- **Prerequisite:** Make sure you have Ollama installed and the latest Llama 3.2 model downloaded on your system before continuing.
 - Reactivate the virtual environment in each new shell with:
 
   ```
